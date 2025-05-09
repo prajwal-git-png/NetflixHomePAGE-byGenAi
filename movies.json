@@ -1,0 +1,64 @@
+{
+  "shows": [
+    {
+      "id": 1,
+      "title": "Stranger Things",
+      "genre": ["Science Fiction", "Horror", "Drama"],
+      "releaseYear": 2016,
+      "rating": "TV-14",
+      "seasons": 4,
+      "description": "A group of young friends witness supernatural forces and secret government exploits in their small town of Hawkins.",
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjang2tSfHU_olHQ-m_gzuGMDV-h1wMsAsoagx_ho5GW2KksCy",
+      "creator": "The Duffer Brothers",
+      "starring": ["Millie Bobby Brown", "Finn Wolfhard", "Winona Ryder"]
+    },
+    {
+      "id": 2,
+      "title": "Breaking Bad",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "releaseYear": 2008,
+      "rating": "TV-MA",
+      "seasons": 5,
+      "description": "A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to secure his family's financial future as he battles terminal cancer.",
+      "imageUrl": "public/brbd.jpeg",
+      "creator": "Vince Gilligan",
+      "starring": ["Bryan Cranston", "Aaron Paul", "Bob Odenkirk"]
+    },
+    {
+      "id": 3,
+      "title": "Manifest",
+      "genre": ["Drama", "Mystery", "Supernatural"],
+      "releaseYear": 2018,
+      "rating": "TV-14",
+      "seasons": 4,
+      "description": "Passengers on a turbulent flight discover that five years have passed when they land, leading them to uncover a mysterious phenomenon.",
+      "imageUrl": "public/download.jpeg",
+      "creator": "Jeff Rake",
+      "starring": ["Melissa Roxburgh", "Josh Dallas", "J.R. Ramirez"]
+    },
+    {
+      "id": 4,
+      "title": "From",
+      "genre": ["Horror", "Mystery", "Sci-Fi"],
+      "releaseYear": 2022,
+      "rating": "TV-MA",
+      "seasons": 2,
+      "description": "Residents of a mysterious town find themselves trapped and must unravel the mysteries of their nightmarish reality while fighting to escape.",
+      "imageUrl": "public/from.jpeg",
+      "creator": "John Griffin",
+      "starring": ["Harold Perrineau", "Catalina Sandino Moreno", "Eion Bailey"]
+    },
+    {
+      "id": 5,
+      "title": "Peaky Blinders",
+      "genre": ["Crime", "Drama", "Historical"],
+      "releaseYear": 2013,
+      "rating": "TV-MA",
+      "seasons": 6,
+      "description": "A gangster family epic set in Birmingham, England, following a gang's rise to power during the aftermath of World War I.",
+      "imageUrl": "pb.jpeg",
+      "creator": "Steven Knight",
+      "starring": ["Cillian Murphy", "Paul Anderson", "Helen McCrory"]
+    }
+  ]
+}

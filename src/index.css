@@ -1,0 +1,20 @@
+/* Base reset and Apple-inspired styles */
+:root {
+  --primary-color: #e50914;
+  --primary-dark: #b20710;
+  --background-color: #0c0c0c;
+  --surface-color: #1a1a1a;
+  --text-color: #ffffff;
+  --text-secondary: rgba(255, 255, 255, 0.7);
+  --border-color: rgba(255, 255, 255, 0.1);
+  
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  /* Apple-inspired animations */
+  --transition-standard: all 0.2s cubic-bezier(0.25, 0.1, 0.25, 1);
+  --transition-decelerate: all 0.3s cubic-bezier(0, 0, 0.2, 1);
+  --transition-accelerate: all 0.2s cubic-bezier(0.4, 0, 1, 1);
+} 
